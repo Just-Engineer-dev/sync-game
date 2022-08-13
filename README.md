@@ -23,4 +23,4 @@ npm init
 npm install --save express socket.io
 ```
 
-Open [http://localhost:3000](http://localhost:3000) and take a look around.
+Open [http://localhost:5000](http://localhost:5000) and take a look around.
